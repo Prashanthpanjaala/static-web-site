@@ -24,6 +24,10 @@ You can also use a custom domain if you have one.
 - Integrates seamlessly with Jekyll (a static site generator, also supported by GitHub Pages).
 - Great for developers showing off projects or writing documentation.
 
+- THE CODE FOR THE WEBSITE IS IN MASTER BRANCH
+
+- LIVE LINK OF THE THE WEBSITE   
+https://prashanthpanjaala.github.io/static-web-site/
 
 
 
