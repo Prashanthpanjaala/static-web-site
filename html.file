@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My GitHub Page</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding-top: 50px; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Hello, GitHub Pages!</h1>
+  <p>This is my first static site hosted with GitHub Pages.</p>
+</body>
+</html>
